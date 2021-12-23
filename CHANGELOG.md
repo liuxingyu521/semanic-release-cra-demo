@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/liuxingyu521/semanic-release-cra-demo/compare/v1.0.0...v1.0.1) (2021-12-23)
+
+
+### Bug Fixes
+
+* release 去掉 npm token ([0aa8d77](https://github.com/liuxingyu521/semanic-release-cra-demo/commit/0aa8d774286d993df82bbfd04ce377d5ed00d377))
+
 # 1.0.0 (2021-12-23)
 
 
